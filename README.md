@@ -8,65 +8,77 @@
 
 ## 📚 Formação Acadêmica
 
-- **Período:** Noturno
-- 
+- **Período:** Noturno  
 - **Universidade de Brasília (UnB)**
   - Curso: Licenciatura em Computação
   - Semestre atual: 7º
+  - Participação em projetos de visualização de dados com Power BI voltados para gestão acadêmica e esportiva
 
 ---
 
-## 🚀 Tecnologias e Interesses
+## 🤩 Habilidades em
 
-- **Linguagens:**
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+      </a><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
+      </a><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+      </a><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## 🎯 Interesses
+
+- Algoritmos e Estruturas de Dados  
+- Programação Orientada a Objetos  
+- Visualização de Dados  
+- Integração de Power BI com Python
+- **Aprender Java e desenvolver jogos digitais**
+
+---
+
+## 🏆 Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalebeAF02&theme=solarized" />
 </p>
-
-- **Interesses:**
-  - Algoritmos e Estruturas de Dados
-  - Programação Orientada a Objetos
-  - Visualização de Dados
-  - Integração de Power BI com Python
-
----
-
-## 💼 Experiência Profissional
-
-- **Período:** Integral  
-
-- **Cabo do Exército Brasileiro**
-  - Atuação administrativa e operacional
-  - Desenvolvimento de disciplina, liderança e resiliência
-
-- **Projetos com Power BI**
-  - Dashboards interativos para tomada de decisão
-  - Exemplos:
-    - [Dashboard 1](https://app.powerbi.com/view?r=eyJrIjoiYzFhMDJiYzItMWVhOS00MTg5LTljMTktZWRmMzVlZjk1Y2Q3IiwidCI6ImVjMzU5YmExLTYzMGItNGQyYi1iODMzLWM4ZTZkNDhmODA1OSJ9)
-    - Dashboard 2: Financeiro Pessoal
-    - Dashboard 3: Gerenciamento de contas de um sistema e-mail
-    - Dashboard 4: Controle de usuários em sistema
-    - Dashboard 5: Organização e controle de material de carga
 
 ---
 
 ## 🧾 Certificados
 
-> *Os certificados listados abaixo estão em andamento ou aguardando validação.*
+> *Certificados em andamento ou concluídos:*
 
 - 📜 **Fundamentos de Power BI** — Microsoft Learn  
 - 📜 **Python para Análise de Dados** — Curso em Vídeo  
 - 📜 **Introdução à Ciência de Dados** — DataCamp  
 - 📜 **Excel Avançado para Negócios** — Udemy  
 - 📜 **Lógica de Programação e Algoritmos** — DIO
+
+---
+
+## 🌍 Idiomas
+
+- 🇧🇷 Português (nativo)  
+- 🇪🇸 Espanhol (intermediário)  
+- 🇺🇸 Inglês (iniciante)
 
 ---
 
@@ -79,26 +91,94 @@
 
 ---
 
-## 🌍 Idiomas
+## 💼 Experiência Profissional
 
-- 🇧🇷 Português (nativo)  
-- 🇪🇸 Espanhol (intermediário)  
-- 🇺🇸 Inglês (iniciante)
+- **Período:** Integral  
+
+- **Cabo do Exército Brasileiro**  
+  - Atuação administrativa e operacional  
+  - Desenvolvimento de disciplina, liderança e resiliência  
+  - Aplicação de dashboards para controle de materiais e usuários em sistemas internos  
+  - Desenvolvimento de painéis interativos com Power BI para gestão de processos internos, incluindo:
+
+    <ul>
+      <li>📊 <b>Mnitoramento de contas de e-mail</b> 
+      <li>📊 <b>Monitoramento de usuários em sistema</b> 
+      <li>📊 <b>Organização e controle de material de carga</b> 
+    </ul>
 
 ---
 
-## 🏆 GitHub Stats
+## 📊 Projetos com Power BI
 
-<p align="center">
-  <img src="github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalebeAF02&theme=solarized" />
-</p>
+> Painéis desenvolvidos para fins acadêmicos, pessoais e esportivos, com foco em análise de dados, visualização interativa e tomada de decisão.
+
+---
+
+### 🏟️ Aplicada FC — Visão Geral e Gestão Esportiva
+
+<a href="https://app.powerbi.com/view?r=SEU-LINK-VISAO-GERAL" target="_blank">
+  <img src="assets/menu_bi.png" width="600" />
+</a>
+
+> Painel institucional do Aplicada FC, com identidade visual do Instituto de Exatas - UnB. Apresenta técnico, equipe de futsal e estrutura organizacional.
+
+---
+
+### 📈 Desempenho Técnico e Estatísticas do Clube
+
+<a href="https://app.powerbi.com/view?r=SEU-LINK-ESTATISTICAS" target="_blank">
+  <img src="assets/geral_bi.png" width="600" />
+</a>
+
+> Dashboard interativo com filtros por posição, curso e jogador. Exibe dados de treinos, jogos, faltas, campeonatos, gols e assistências. Inclui gráficos de linha e barras para análise temporal e comparativa.
+
+---
+
+### 🧍 Perfis Individuais — Jogadores
+
+<a href="https://app.powerbi.com/view?r=SEU-LINK-PERFIS" target="_blank">
+  <img src="assets/usuario_bi.png" width="600" />
+</a>
+
+> Perfis técnicos dos jogadores Calebe e Cauê, com gráficos radar, atributos físicos e técnicos, histórico de desempenho e filtros por posição e curso.
+
+---
+
+### 🏅 Ranking, Presenças e Projeções
+
+<a href="https://app.powerbi.com/view?r=SEU-LINK-RANKING" target="_blank">
+  <img src="assets/jogos_bi.png" width="600" />
+</a>
+
+> Painel com ranking dos melhores jogadores, presença em jogos, distribuição de projetos e projeções por curso e posição.
+
+---
+
+### 💰 Controle Financeiro Pessoal
+
+<a href="https://app.powerbi.com/view?r=SEU-LINK-FINANCEIRO" target="_blank">
+  <img src="assets/geral_financeiro_bi.png" width="600" />
+</a>
+
+> Painel desenvolvido para controle de entradas e saídas, planejamento financeiro e acompanhamento de metas pessoais.
+
+---
+
+### 📉 Painel de Despesas Detalhadas
+
+<a href="https://app.powerbi.com/view?r=SEU-LINK-DESPESAS" target="_blank">
+  <img src="assets/saidas_financeiro_bi.png" width="600" />
+</a>
+
+> Dashboard com filtros por mês, categoria, banco e agência. Visualiza gastos totais e distribuição por tipo de despesa.
 
 ---
 
 ## 📫 Contato
 
-- 🌐 [Instagram](https://www.instagram.com/calebeaf02/)
-- 💼 LinkedIn *(em construção)*
+- 🌐 [Instagram](https://www.instagram.com/calebeaf02/)  
+- 💼 LinkedIn *(em construção)*  
 - 📧 Email *(opcional)*
 
 ---
