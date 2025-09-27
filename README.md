@@ -18,28 +18,11 @@
 
 ## 🤩 Habilidades em
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" target="_blank">
+<p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-      </a><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
-      </a><br/>
-      <sub><b>C++</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-      </a><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-  </tr>
-</table>
+        <img src="https://img.icons8.com/?size=100&id=YSWCDCSF4H3N&format=png&color=FFFFFF" width="50" height="50" alt="GitHub" />
+</p>
 
 
 ---
