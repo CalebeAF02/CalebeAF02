@@ -1,4 +1,4 @@
-# 👨‍💻 Calebe Alves Ferreira
+# 👨‍💻 Calebe Alves Freitas
 
 🎖️ Cabo do Exército Brasileiro  
 🎓 Estudante de **Licenciatura em Computação** na **Universidade de Brasília (UnB)** — ingresso em 2022/2  
@@ -47,7 +47,7 @@
 
 ## 🧾 Certificados
 
-> *Certificados em andamento ou concluídos:*
+> *Certificados em andamento :*
 
 - 📜 **Fundamentos de Power BI** — Microsoft Learn  
 - 📜 **Python para Análise de Dados** — Curso em Vídeo  
@@ -89,6 +89,32 @@
       <li>📊 <b>Monitoramento de usuários em sistema</b> 
       <li>📊 <b>Organização e controle de material de carga</b> 
     </ul>
+
+---
+
+💻 Projetos de Desenvolvimento de Software
+Projetos acadêmicos e pessoais com foco em boas práticas de engenharia de software, POO, integração com banco de dados e visualização de dados.
+
+
+🏨 Gerenciador de Hotel — UnB
+
+🔗 Repositório no GitHub
+
+<img src="https://raw.githubusercontent.com/CalebeAF02/Gerenciador-De-Hoteis---UNB/main/imagens/tela_inicial.png" width="600" />
+
+- Sistema completo em C++ com persistência em SQLite
+- Interface de terminal interativa para gerenciamento de hóspedes, gerentes, reservas e quartos
+- Validação embutida nas classes de domínio com tratamento de exceções
+- Arquitetura modular com separação entre entidades, serviços, persistência e interface
+- Testes unitários e de integração organizados por domínio e interface
+- Documentação completa com imagens, estrutura do projeto e instruções de contribuição
+
+🧪 Validador de Domínios em C++
+
+- Módulo de testes para validação de dados como nome, email, senha, telefone e ramal
+- Implementado com tratamento de exceções (std::invalid_argument)
+- Utilizado como base para testes automatizados no projeto Gerenciador de Hotel
+- Contadores estáticos para rastrear sucesso e falha em execuções
 
 ---
 
@@ -162,7 +188,7 @@
 
 - 🌐 [Instagram](https://www.instagram.com/calebeaf02/)  
 - 💼 LinkedIn *(em construção)*  
-- 📧 Email *(opcional)*
+- 📧 Email *(calebe.2324@gmail.com)*
 
 ---
 
