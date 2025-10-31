@@ -74,6 +74,20 @@
 
 ---
 
+##🚀 Em Busca de Experiências
+
+Estou em fase de prática e aprendizado, explorando diferentes áreas da tecnologia para entender onde posso aplicar melhor minhas habilidades.
+Ainda não atuei profissionalmente na área, mas estou aberto a oportunidades de estágio, colaboração em projetos open source, ou qualquer iniciativa que me permita aprender na prática e contribuir com soluções reais.
+Tenho interesse especial em:
+
+- Desenvolvimento de sistemas com C++ e Python
+- Visualização de dados com Power BI
+- Projetos educacionais, sociais ou esportivos com impacto prático
+- Ambientes que valorizem aprendizado contínuo, mentoria e trabalho em equipe
+📬 Se você tem um projeto, ideia ou oportunidade onde eu possa contribuir e aprender, estou disponível para conversar!
+
+---
+
 ## 💼 Experiência Profissional
 
 - **Período:** Integral  
