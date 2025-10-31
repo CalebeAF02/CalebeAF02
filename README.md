@@ -74,7 +74,7 @@
 
 ---
 
-##🚀 Em Busca de Experiências
+## 🚀 Em Busca de Experiências
 
 Estou em fase de prática e aprendizado, explorando diferentes áreas da tecnologia para entender onde posso aplicar melhor minhas habilidades.
 Ainda não atuei profissionalmente na área, mas estou aberto a oportunidades de estágio, colaboração em projetos open source, ou qualquer iniciativa que me permita aprender na prática e contribuir com soluções reais.
@@ -106,11 +106,11 @@ Tenho interesse especial em:
 
 ---
 
-💻 Projetos de Desenvolvimento de Software
+## 💻 Projetos de Desenvolvimento de Software
 Projetos acadêmicos e pessoais com foco em boas práticas de engenharia de software, POO, integração com banco de dados e visualização de dados.
 
 
-🏨 Gerenciador de Hotel — UnB
+## 🏨 Gerenciador de Hotel — UnB
 
 🔗 Repositório no GitHub
 
@@ -123,7 +123,7 @@ Projetos acadêmicos e pessoais com foco em boas práticas de engenharia de soft
 - Testes unitários e de integração organizados por domínio e interface
 - Documentação completa com imagens, estrutura do projeto e instruções de contribuição
 
-🧪 Validador de Domínios em C++
+## 🧪 Validador de Domínios em C++
 
 - Módulo de testes para validação de dados como nome, email, senha, telefone e ramal
 - Implementado com tratamento de exceções (std::invalid_argument)
