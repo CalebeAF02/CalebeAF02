@@ -20,7 +20,9 @@
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="50" height="50" alt="C" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="50" height="50" alt="Java" />
         <img src="https://img.icons8.com/?size=100&id=YSWCDCSF4H3N&format=png&color=FFFFFF" width="50" height="50" alt="GitHub" />
 </p>
 
