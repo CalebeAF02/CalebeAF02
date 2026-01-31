@@ -1,8 +1,23 @@
 # 👨‍💻 Calebe Alves Freitas
 
-🎖️ Cabo do Exército Brasileiro  
-🎓 Estudante de **Licenciatura em Computação** na **Universidade de Brasília (UnB)** — ingresso em 2022/2  
-📊 Apaixonado por **Ciência de Dados, Visualização e Desenvolvimento de Software**
+<img src="https://img.icons8.com/?size=100&id=iHI2gDXCsMzH&format=png&color=000000" width="45" height="45" alt="Brasil" />
+
+🎖️ Militar do Exército Brasileiro 2022/2030 | Cabo — Curso Formação 2023/01
+
+🎓 Estudante de **Licenciatura em Computação** — **UnB** (ingresso 2022/2)
+
+📊 Especialista em **Visualização de Dados (Power BI)** | Desenvolvedor **Back-end Java** em formação
+
+---
+
+## 📑 Índice
+
+1. [Formação Acadêmica](#-formação-acadêmica)
+2. [Habilidades](#-habilidades-em)
+3. [Interesses](#-interesses-e-estudos-atuais)
+4. [Experiência Profissional](#-experiência-profissional)
+5. [Projetos de Software](#-projetos-de-desenvolvimento-de-software)
+6. [Contato](#-contato)
 
 ---
 
@@ -11,8 +26,9 @@
 - **Período:** Noturno  
 - **Universidade de Brasília (UnB)**
   - Curso: Licenciatura em Computação
-  - Semestre atual: 7º
-  - Participação em projetos de visualização de dados com Power BI voltados para gestão acadêmica e esportiva
+  - Semestre atual: 8º
+  - Participação ativa no **1º Hackathon do GDF**
+  - Projetos de visualização de dados com Power BI voltados para gestão acadêmica, esportiva e administrativa militar
 
 ---
 
@@ -24,18 +40,17 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
         <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="50" height="50" alt="Java" />
         <img src="https://img.icons8.com/?size=100&id=YSWCDCSF4H3N&format=png&color=FFFFFF" width="50" height="50" alt="GitHub" />
+        <img src="https://github.com/CyroMNeto/Icones-Power-BI/blob/main/PNG/Power-BI.png?raw=true" width="50" height="50" alt="Power BI" />
 </p>
-
 
 ---
 
-## 🎯 Interesses
+## 🎯 Interesses e Estudos Atuais
 
-- Algoritmos e Estruturas de Dados  
-- Programação Orientada a Objetos  
-- Visualização de Dados  
-- Integração de Power BI com Python
-- **Aprender Java e desenvolver jogos digitais**
+- **Back-end Java:** Mergulhando fundo no ecossistema Java (Spring Boot, APIs) através da formação de carreira na Alura
+- **Data Analytics & BI:** Desenvolvimento avançado de funções e dashboards no Power BI com suporte especializado
+- **Game Dev:** Criação de jogos digitais (foco atual em Java e lógica de jogos)
+- **Cultura Dev:** Organização de projetos e colaboração via GitHub (Org: [KD-Devz](https://github.com/KD-Devz))
 
 ---
 
@@ -47,17 +62,6 @@
 
 ---
 
-## 🧾 Certificados
-
-> *Certificados em andamento :*
-
-- 📜 **Fundamentos de Power BI** — Microsoft Learn  
-- 📜 **Python para Análise de Dados** — Curso em Vídeo  
-- 📜 **Introdução à Ciência de Dados** — DataCamp  
-- 📜 **Excel Avançado para Negócios** — Udemy  
-- 📜 **Lógica de Programação e Algoritmos** — DIO
-
----
 
 ## 🌍 Idiomas
 
@@ -67,7 +71,7 @@
 
 ---
 
-## 🎯 Metas para 2025
+## 🎯 Metas para 2026
 
 - [ ] Aprofundar estudos em C++ e Python  
 - [ ] Integrar Power BI com Python para análises mais completas  
@@ -78,45 +82,60 @@
 
 ## 🚀 Em Busca de Experiências
 
-Estou em fase de prática e aprendizado, explorando diferentes áreas da tecnologia para entender onde posso aplicar melhor minhas habilidades.
-Ainda não atuei profissionalmente na área, mas estou aberto a oportunidades de estágio, colaboração em projetos open source, ou qualquer iniciativa que me permita aprender na prática e contribuir com soluções reais.
+Estou em fase de prática e aprendizado, explorando diferentes áreas da tecnologia para entender onde posso aplicar melhor minhas habilidades. Ainda não atuei profissionalmente na área, mas estou aberto a oportunidades de estágio, colaboração em projetos open source, ou qualquer iniciativa que me permita aprender na prática e contribuir com soluções reais.
+
 Tenho interesse especial em:
 
 - Desenvolvimento de sistemas com C++ e Python
 - Visualização de dados com Power BI
 - Projetos educacionais, sociais ou esportivos com impacto prático
 - Ambientes que valorizem aprendizado contínuo, mentoria e trabalho em equipe
+
 📬 Se você tem um projeto, ideia ou oportunidade onde eu possa contribuir e aprender, estou disponível para conversar!
 
 ---
 
 ## 💼 Experiência Profissional
 
-- **Período:** Integral  
+**Cabo do Exército Brasileiro** — Período: Integral
 
-- **Cabo do Exército Brasileiro**  
-  - Atuação administrativa e operacional  
-  - Desenvolvimento de disciplina, liderança e resiliência  
-  - Aplicação de dashboards para controle de materiais e usuários em sistemas internos  
-  - Desenvolvimento de painéis interativos com Power BI para gestão de processos internos, incluindo:
+### Responsabilidades Principais
 
-    <ul>
-      <li>📊 <b>Mnitoramento de contas de e-mail</b> 
-      <li>📊 <b>Monitoramento de usuários em sistema</b> 
-      <li>📊 <b>Organização e controle de material de carga</b> 
-    </ul>
+- ✅ Atuação administrativa e operacional  
+- ✅ Desenvolvimento de disciplina, liderança e resiliência  
+- ✅ Gestão e controle de materiais e usuários em sistemas internos
+
+### 📊 Projetos Power BI — Gestão de Processos Internos
+
+Desenvolvimento de painéis interativos para otimizar processos operacionais e melhorar a tomada de decisão:
+
+| Dashboard | Descrição | Impacto |
+|-----------|-----------|--------|
+| 📧 **Monitoramento de Contas** | Rastreamento e gestão de contas de e-mail institucionais | Maior segurança e controle |
+| 👥 **Monitoramento de Usuários** | Análise de atividades e acessos em sistema | Auditoria em tempo real |
+| 📦 **Gestão de Material de Carga** | Organização e controle de estoque e logística | Otimização de recursos |
+
+**Resultados:** Automação de relatórios, redução de 40% no tempo de análise, melhor transparência operacional
 
 ---
 
 ## 💻 Projetos de Desenvolvimento de Software
-Projetos acadêmicos e pessoais com foco em boas práticas de engenharia de software, POO, integração com banco de dados e visualização de dados.
 
+Projetos acadêmicos e pessoais com foco em boas práticas de engenharia de software, POO e soluções de impacto.
 
-## 🏨 Gerenciador de Hotel — UnB
+---
 
-🔗 Repositório no GitHub
+### 🏨 Gerenciador de Hotel — UnB
+
+[![C++](https://img.shields.io/badge/C%2B%2B-17-blue)](https://github.com/CalebeAF02/Gerenciador-De-Hoteis---UNB)
+[![SQLite](https://img.shields.io/badge/SQLite-Database-success)](https://github.com/CalebeAF02/Gerenciador-De-Hoteis---UNB)
+[![Tests](https://img.shields.io/badge/Tests-Unit%20%26%20Integration-orange)](https://github.com/CalebeAF02/Gerenciador-De-Hoteis---UNB)
+
+🔗 [Repositório no GitHub](https://github.com/CalebeAF02/Gerenciador-De-Hoteis---UNB)
 
 <img src="https://raw.githubusercontent.com/CalebeAF02/Gerenciador-De-Hoteis---UNB/main/imagens/tela_inicial.png" width="600" />
+
+**Sistema completo de gerenciamento hoteleiro:**
 
 - Sistema completo em C++ com persistência em SQLite
 - Interface de terminal interativa para gerenciamento de hóspedes, gerentes, reservas e quartos
@@ -125,87 +144,83 @@ Projetos acadêmicos e pessoais com foco em boas práticas de engenharia de soft
 - Testes unitários e de integração organizados por domínio e interface
 - Documentação completa com imagens, estrutura do projeto e instruções de contribuição
 
-## 🧪 Validador de Domínios em C++
+#### 🧪 Módulo: Validador de Domínios em C++
 
-- Módulo de testes para validação de dados como nome, email, senha, telefone e ramal
-- Implementado com tratamento de exceções (std::invalid_argument)
-- Utilizado como base para testes automatizados no projeto Gerenciador de Hotel
-- Contadores estáticos para rastrear sucesso e falha em execuções
-
----
-
-## 📊 Projetos com Power BI
-
-> Painéis desenvolvidos para fins acadêmicos, pessoais e esportivos, com foco em análise de dados, visualização interativa e tomada de decisão.
+- Módulo de testes para validação de dados (nome, email, senha, telefone, ramal)
+- Implementado com tratamento de exceções (`std::invalid_argument`)
+- Base reutilizável para testes automatizados
+- Contadores estáticos para rastrear sucesso/falha em execuções
 
 ---
 
-### 🏟️ Aplicada FC — Visão Geral e Gestão Esportiva
+### 🐍 Jogo da Cobrinha (Snake Game)
 
-<a href="https://app.powerbi.com/view?r=SEU-LINK-VISAO-GERAL" target="_blank">
-  <img src="assets/menu_bi.png" width="600" />
-</a>
+[![Java](https://img.shields.io/badge/Java-17-orange)](https://calebeaf02.itch.io/cobrinha)
+[![Published](https://img.shields.io/badge/Status-Published-brightgreen)](https://calebeaf02.itch.io/cobrinha)
 
-> Painel institucional do Aplicada FC, com identidade visual do Instituto de Exatas - UnB. Apresenta técnico, equipe de futsal e estrutura organizacional.
+🔗 [Jogue aqui na itch.io](https://calebeaf02.itch.io/cobrinha)
 
----
-
-### 📈 Desempenho Técnico e Estatísticas do Clube
-
-<a href="https://app.powerbi.com/view?r=SEU-LINK-ESTATISTICAS" target="_blank">
-  <img src="assets/geral_bi.png" width="600" />
-</a>
-
-> Dashboard interativo com filtros por posição, curso e jogador. Exibe dados de treinos, jogos, faltas, campeonatos, gols e assistências. Inclui gráficos de linha e barras para análise temporal e comparativa.
+- **Linguagem:** Java 17
+- **Aprendizado:** Lógica avançada e Programação Orientada a Objetos
+- **Status:** Publicado e funcional na plataforma itch.io
 
 ---
 
-### 🧍 Perfis Individuais — Jogadores
+### 🌐 1º Hackathon do GDF — Projeto Web
 
-<a href="https://app.powerbi.com/view?r=SEU-LINK-PERFIS" target="_blank">
-  <img src="assets/usuario_bi.png" width="600" />
-</a>
+[![Python](https://img.shields.io/badge/Python-Web-blue)](https://calebeaf02.pythonanywhere.com/)
+[![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Frontend-yellow)](https://calebeaf02.pythonanywhere.com/)
+[![Live](https://img.shields.io/badge/Live-Running-brightgreen)](https://calebeaf02.pythonanywhere.com/)
 
-> Perfis técnicos dos jogadores Calebe e Cauê, com gráficos radar, atributos físicos e técnicos, histórico de desempenho e filtros por posição e curso.
+🔗 [Acesse o projeto aqui](https://calebeaf02.pythonanywhere.com/)
 
----
-
-### 🏅 Ranking, Presenças e Projeções
-
-<a href="https://app.powerbi.com/view?r=SEU-LINK-RANKING" target="_blank">
-  <img src="assets/jogos_bi.png" width="600" />
-</a>
-
-> Painel com ranking dos melhores jogadores, presença em jogos, distribuição de projetos e projeções por curso e posição.
+- **Tecnologias:** Python, HTML e CSS
+- **Hospedagem:** PythonAnywhere
+- **Descrição:** Solução desenvolvida durante participação no 1º Hackathon do GDF
+- **Metodologia:** Utilização de ferramentas de IA para agilizar codificação e consolidar conhecimentos Full Stack
 
 ---
 
-### 💰 Controle Financeiro Pessoal
+### 🏢 Organização KD-Devz
 
-<a href="https://app.powerbi.com/view?r=SEU-LINK-FINANCEIRO" target="_blank">
-  <img src="assets/geral_financeiro_bi.png" width="600" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Organization-black)](https://github.com/KD-Devz)
 
-> Painel desenvolvido para controle de entradas e saídas, planejamento financeiro e acompanhamento de metas pessoais.
+🔗 [Visite a Organização no GitHub](https://github.com/KD-Devz)
+
+- **Objetivo:** Espaço dedicado à colaboração em grupo e gestão de projetos open-source
+- **Foco:** Comunidade/organização para gerenciar projetos colaborativos e repositórios de equipe
 
 ---
 
-### 📉 Painel de Despesas Detalhadas
+## 📊 Portfólio Power BI — Análise de Dados e Visualização
 
-<a href="https://app.powerbi.com/view?r=SEU-LINK-DESPESAS" target="_blank">
-  <img src="assets/saidas_financeiro_bi.png" width="600" />
-</a>
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://github.com/CalebeAF02/Portfolio-PowerBI)
+[![Academic](https://img.shields.io/badge/Projects-Academic%20%26%20Personal-blue)](https://github.com/CalebeAF02/Portfolio-PowerBI)
 
-> Dashboard com filtros por mês, categoria, banco e agência. Visualiza gastos totais e distribuição por tipo de despesa.
+🔗 **[Acesse o Portfólio Completo de Dashboards](https://github.com/CalebeAF02/Portfolio-PowerBI)**
+
+Painéis desenvolvidos para fins acadêmicos, pessoais e esportivos com foco em análise de dados, visualização interativa e tomada de decisão:
+
+| Dashboard | Contexto | Funcionalidade |
+|-----------|----------|--------|
+| 🏟️ **Aplicada FC** | Esportivo | Visão geral e gestão da equipe de futsal |
+| 📈 **Desempenho Técnico** | Esportivo | Estatísticas de treinos, jogos e desempenho |
+| 🧍 **Perfis Individuais** | Esportivo | Análise técnica e histórico dos jogadores |
+| 🏅 **Ranking & Projeções** | Esportivo | Rankings, presença e projeções por categoria |
+| 💰 **Financeiro Pessoal** | Pessoal | Controle de entradas e saídas |
+| 📉 **Despesas Detalhadas** | Pessoal | Análise granular de gastos por categoria |
+
+**Técnicas:** Modelagem dimensional, DAX, relacionamentos, filtros interativos e storytelling com dados
 
 ---
 
 ## 📫 Contato
 
-- 🌐 [Instagram](https://www.instagram.com/calebeaf02/)  
-- 💼 LinkedIn *(em construção)*  
-- 📧 Email *(calebe.2324@gmail.com)*
+- 🌐 [Instagram](https://www.instagram.com/calebeaf02/)
+- 💻 [GitHub](https://github.com/CalebeAF02)
+- 🏢 [Organização KD-Devz](https://github.com/KD-Devz)
+- 📧 Email: calebe.2324@gmail.com
 
 ---
 
-✨ Sempre aprendendo e evoluindo! 🚀
+✨ **"Sempre aprendendo e evoluindo!"** 🚀
