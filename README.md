@@ -21,17 +21,6 @@
 
 ---
 
-## 📚 Formação Acadêmica
-
-- **Período:** Noturno  
-- **Universidade de Brasília (UnB)**
-  - Curso: Licenciatura em Computação
-  - Semestre atual: 8º
-  - Participação ativa no **1º Hackathon do GDF**
-  - Projetos de visualização de dados com Power BI voltados para gestão acadêmica, esportiva e administrativa militar
-
----
-
 ## 🤩 Habilidades em
 
 <p align="center">
@@ -39,18 +28,11 @@
         <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="50" height="50" alt="C" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
         <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="50" height="50" alt="Java" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" height="50" alt="Go" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="SQL" />
         <img src="https://img.icons8.com/?size=100&id=YSWCDCSF4H3N&format=png&color=FFFFFF" width="50" height="50" alt="GitHub" />
         <img src="https://github.com/CyroMNeto/Icones-Power-BI/blob/main/PNG/Power-BI.png?raw=true" width="50" height="50" alt="Power BI" />
 </p>
-
----
-
-## 🎯 Interesses e Estudos Atuais
-
-- **Back-end Java:** Mergulhando fundo no ecossistema Java (Spring Boot, APIs) através da formação de carreira na Alura
-- **Data Analytics & BI:** Desenvolvimento avançado de funções e dashboards no Power BI com suporte especializado
-- **Game Dev:** Criação de jogos digitais (foco atual em Java e lógica de jogos)
-- **Cultura Dev:** Organização de projetos e colaboração via GitHub (Org: [KD-Devz](https://github.com/KD-Devz))
 
 ---
 
@@ -71,27 +53,24 @@
 
 ---
 
-## 🎯 Metas para 2026
+## 💻 Desenvolvedor em formação com foco em:
 
-- [ ] Aprofundar estudos em C++ e Python  
-- [ ] Integrar Power BI com Python para análises mais completas  
-- [ ] Criar e publicar projetos de software open source  
-- [ ] Melhorar fluência em Inglês Técnico
+- Back-end
+- Engenharia de Software
+- Programação Concorrente
+- Desenvolvimento de Jogos
+- Visualização de Dados
 
 ---
 
-## 🚀 Em Busca de Experiências
+## 📚 Formação Acadêmica
 
-Estou em fase de prática e aprendizado, explorando diferentes áreas da tecnologia para entender onde posso aplicar melhor minhas habilidades. Ainda não atuei profissionalmente na área, mas estou aberto a oportunidades de estágio, colaboração em projetos open source, ou qualquer iniciativa que me permita aprender na prática e contribuir com soluções reais.
-
-Tenho interesse especial em:
-
-- Desenvolvimento de sistemas com C++ e Python
-- Visualização de dados com Power BI
-- Projetos educacionais, sociais ou esportivos com impacto prático
-- Ambientes que valorizem aprendizado contínuo, mentoria e trabalho em equipe
-
-📬 Se você tem um projeto, ideia ou oportunidade onde eu possa contribuir e aprender, estou disponível para conversar!
+- **Período:** Noturno  
+- **Universidade de Brasília (UnB)**
+  - Curso: Licenciatura em Computação
+  - Semestre atual: 8º
+  - Participação ativa no **1º Hackathon do GDF**
+  - Projetos de visualização de dados com Power BI voltados para gestão acadêmica, esportiva e administrativa militar
 
 ---
 
@@ -105,80 +84,6 @@ Tenho interesse especial em:
 - ✅ Desenvolvimento de disciplina, liderança e resiliência  
 - ✅ Gestão e controle de materiais e usuários em sistemas internos
 
-### 📊 Projetos Power BI — Gestão de Processos Internos
-
-Desenvolvimento de painéis interativos para otimizar processos operacionais e melhorar a tomada de decisão:
-
-| Dashboard | Descrição | Impacto |
-|-----------|-----------|--------|
-| 📧 **Monitoramento de Contas** | Rastreamento e gestão de contas de e-mail institucionais | Maior segurança e controle |
-| 👥 **Monitoramento de Usuários** | Análise de atividades e acessos em sistema | Auditoria em tempo real |
-| 📦 **Gestão de Material de Carga** | Organização e controle de estoque e logística | Otimização de recursos |
-
-**Resultados:** Automação de relatórios, redução de 40% no tempo de análise, melhor transparência operacional
-
----
-
-## 💻 Projetos de Desenvolvimento de Software
-
-Projetos acadêmicos e pessoais com foco em boas práticas de engenharia de software, POO e soluções de impacto.
-
----
-
-### 🏨 Gerenciador de Hotel — UnB
-
-[![C++](https://img.shields.io/badge/C%2B%2B-17-blue)](https://github.com/CalebeAF02/Gerenciador-De-Hoteis---UNB)
-[![SQLite](https://img.shields.io/badge/SQLite-Database-success)](https://github.com/CalebeAF02/Gerenciador-De-Hoteis---UNB)
-[![Tests](https://img.shields.io/badge/Tests-Unit%20%26%20Integration-orange)](https://github.com/CalebeAF02/Gerenciador-De-Hoteis---UNB)
-
-🔗 [Repositório no GitHub](https://github.com/CalebeAF02/Gerenciador-De-Hoteis---UNB)
-
-<img src="https://raw.githubusercontent.com/CalebeAF02/Gerenciador-De-Hoteis---UNB/main/imagens/tela_inicial.png" width="600" />
-
-**Sistema completo de gerenciamento hoteleiro:**
-
-- Sistema completo em C++ com persistência em SQLite
-- Interface de terminal interativa para gerenciamento de hóspedes, gerentes, reservas e quartos
-- Validação embutida nas classes de domínio com tratamento de exceções
-- Arquitetura modular com separação entre entidades, serviços, persistência e interface
-- Testes unitários e de integração organizados por domínio e interface
-- Documentação completa com imagens, estrutura do projeto e instruções de contribuição
-
-#### 🧪 Módulo: Validador de Domínios em C++
-
-- Módulo de testes para validação de dados (nome, email, senha, telefone, ramal)
-- Implementado com tratamento de exceções (`std::invalid_argument`)
-- Base reutilizável para testes automatizados
-- Contadores estáticos para rastrear sucesso/falha em execuções
-
----
-
-### 🐍 Jogo da Cobrinha (Snake Game)
-
-[![Java](https://img.shields.io/badge/Java-17-orange)](https://calebeaf02.itch.io/cobrinha)
-[![Published](https://img.shields.io/badge/Status-Published-brightgreen)](https://calebeaf02.itch.io/cobrinha)
-
-🔗 [Jogue aqui na itch.io](https://calebeaf02.itch.io/cobrinha)
-
-- **Linguagem:** Java 17
-- **Aprendizado:** Lógica avançada e Programação Orientada a Objetos
-- **Status:** Publicado e funcional na plataforma itch.io
-
----
-
-### 🌐 1º Hackathon do GDF — Projeto Web
-
-[![Python](https://img.shields.io/badge/Python-Web-blue)](https://calebeaf02.pythonanywhere.com/)
-[![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Frontend-yellow)](https://calebeaf02.pythonanywhere.com/)
-[![Live](https://img.shields.io/badge/Live-Running-brightgreen)](https://calebeaf02.pythonanywhere.com/)
-
-🔗 [Acesse o projeto aqui](https://calebeaf02.pythonanywhere.com/)
-
-- **Tecnologias:** Python, HTML e CSS
-- **Hospedagem:** PythonAnywhere
-- **Descrição:** Solução desenvolvida durante participação no 1º Hackathon do GDF
-- **Metodologia:** Utilização de ferramentas de IA para agilizar codificação e consolidar conhecimentos Full Stack
-
 ---
 
 ### 🏢 Organização KD-Devz
@@ -189,6 +94,74 @@ Projetos acadêmicos e pessoais com foco em boas práticas de engenharia de soft
 
 - **Objetivo:** Espaço dedicado à colaboração em grupo e gestão de projetos open-source
 - **Foco:** Comunidade/organização para gerenciar projetos colaborativos e repositórios de equipe
+
+---
+
+## 🚀 Em Busca de Experiências
+
+Atualmente em fase de aprendizado e desenvolvimento técnico, buscando oportunidades para aplicar conhecimentos em projetos reais.
+
+### 🎯 Áreas de Interesse
+
+- Desenvolvimento Back-end
+- Engenharia de Software
+- Desenvolvimento de Jogos
+- Programação Concorrente
+- Inteligência Artificial
+- Banco de Dados
+- Data Analytics
+
+📬 Aberto a colaborações, projetos acadêmicos, open source e oportunidades de estágio.
+
+---
+
+## 👨‍💻 Linguagens & Tecnologias — Projetos Pessoais
+
+[![Personal](https://img.shields.io/badge/Projects-Personal-success)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
+[![Software](https://img.shields.io/badge/Area-Software%20Development-blue)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
+[![Learning](https://img.shields.io/badge/Status-Continuous%20Learning-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
+
+🔗 **[Acesse o Repositório](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)**
+
+Tecnologias utilizadas em projetos pessoais, experimentais e estudos independentes voltados para desenvolvimento de software, algoritmos, jogos e sistemas administrativos.
+
+| Tecnologia | Área | Aplicações |
+|------------|------|-------------|
+| ☕ **Java** | Game Dev & POO | Desenvolvimento de jogos e arquitetura orientada a objetos |
+| 🐍 **Python** | Back-end & Automação | Sistemas administrativos, APIs e automação |
+| ⚙️ **C** | Game Development | Fundamentos computacionais e jogos 2D |
+| 🚀 **C++** | Software & Games | Estruturação de sistemas e jogos |
+| 🗄️ **SQL** | Banco de Dados | Organização e persistência de dados |
+| 🌐 **HTML/CSS** | Front-end | Interfaces web e estilização |
+| 🔧 **Git & GitHub** | Versionamento | Organização e gerenciamento de projetos |
+
+**Áreas de Interesse:** Desenvolvimento de Jogos, Back-end, Estruturas de Dados, Arquitetura de Software e Sistemas Administrativos.
+
+---
+
+## 👨‍🎓 Linguagens & Tecnologias — Projetos UnB
+
+[![Academic](https://img.shields.io/badge/Projects-UnB-blue)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
+[![Computer Science](https://img.shields.io/badge/Area-Computer%20Science-success)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
+[![Learning](https://img.shields.io/badge/Focus-Academic%20Projects-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
+
+🔗 **[Acesse o Repositório](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)**
+
+Tecnologias e linguagens utilizadas em projetos acadêmicos desenvolvidos durante a graduação em Licenciatura em Computação na Universidade de Brasília.
+
+| Tecnologia | Área | Aplicações |
+|------------|------|-------------|
+| ☕ **Java** | POO & Estruturas | Programação orientada a objetos e lógica |
+| 🐹 **Go (Golang)** | Concorrência | Goroutines, paralelismo e ECS |
+| 🐍 **Python** | Algoritmos | Programação básica, automação e POO |
+| ⚙️ **C** | Fundamentos | Estruturas de dados e lógica computacional |
+| 🚀 **C++** | Engenharia de Software | Sistemas modulares e arquitetura |
+| 🧠 **Prolog** | Inteligência Artificial | Inferência lógica e árvores de refutação |
+| λ **Hugs98** | Programação Funcional | Recursão e paradigmas funcionais |
+| 🗄️ **SQL** | Banco de Dados | Consultas, modelagem e persistência |
+| 🔧 **Git & GitHub** | Versionamento | Organização e colaboração acadêmica |
+
+**Áreas de Interesse:** Engenharia de Software, Programação Concorrente, Inteligência Artificial, Banco de Dados, Paradigmas de Programação e Desenvolvimento Web.
 
 ---
 
