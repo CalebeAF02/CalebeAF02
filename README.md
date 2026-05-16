@@ -86,17 +86,6 @@
 
 ---
 
-### 🏢 Organização KD-Devz
-
-[![GitHub](https://img.shields.io/badge/GitHub-Organization-black)](https://github.com/KD-Devz)
-
-🔗 [Visite a Organização no GitHub](https://github.com/KD-Devz)
-
-- **Objetivo:** Espaço dedicado à colaboração em grupo e gestão de projetos open-source
-- **Foco:** Comunidade/organização para gerenciar projetos colaborativos e repositórios de equipe
-
----
-
 ## 🚀 Em Busca de Experiências
 
 Atualmente em fase de aprendizado e desenvolvimento técnico, buscando oportunidades para aplicar conhecimentos em projetos reais.
