@@ -2,9 +2,9 @@
 
 > Tecnologias utilizadas em projetos pessoais, experimentais e estudos independentes voltados para desenvolvimento de software, algoritmos, jogos e sistemas administrativos.
 
-[![Personal](https://img.shields.io/badge/Projects-Personal-success)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
-[![Software](https://img.shields.io/badge/Area-Software%20Development-blue)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
-[![Learning](https://img.shields.io/badge/Status-Continuous%20Learning-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
+[![Pessoal](https://img.shields.io/badge/Projetos-Pessoal-success)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
+[![Software](https://img.shields.io/badge/Area-Desenvolvimento%20de%20Software-blue)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
+[![Learning](https://img.shields.io/badge/Status-Evoluindo-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
 
 
 
@@ -19,9 +19,6 @@
 | 🔧 **Git & GitHub** | Versionamento | Organização e gerenciamento de projetos |
 
 **Áreas de Interesse:** Desenvolvimento de Jogos, Back-end, Estruturas de Dados, Arquitetura de Software e Sistemas Administrativos.
-
----
-
 ## 🎮 Introdução Jogos C
 
 [![C](https://img.shields.io/badge/C-GameDev-blue)](https://github.com/CalebeAF02/Introducao_Jogos_C)
@@ -45,9 +42,6 @@ Projeto focado nos primeiros passos em desenvolvimento de jogos utilizando C/C++
 - C
 - C++
 - Raylib
-
----
-
 ## 🐍 Cobrinha — Java
 
 [![Java](https://img.shields.io/badge/Java-17-orange)](https://github.com/CalebeAF02/Cobrinha)
@@ -71,9 +65,6 @@ Remake do clássico Snake Game utilizando Java e Graphics2D.
 - Java
 - Graphics2D
 - Game Development
-
----
-
 ## 🎄 Advent Of Code 2025
 
 [![Algorithms](https://img.shields.io/badge/Focus-Algorithms-blue)](https://github.com/CalebeAF02/Advent_Of_Code_2025)
@@ -96,9 +87,6 @@ Repositório dedicado às soluções dos desafios do Advent of Code 2025.
 - Algoritmos
 - Estruturas de dados
 - Resolução de problemas
-
----
-
 ## 🏋️ Academia
 
 [![Python](https://img.shields.io/badge/Python-System-blue)](https://github.com/CalebeAF02/Academia)
@@ -121,9 +109,6 @@ Sistema desenvolvido para gerenciamento de academia e organização administrati
 
 - Python
 - FastAPI
-
----
-
 # 👨‍💻 Autor
 
 Calebe Alves Freitas

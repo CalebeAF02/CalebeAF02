@@ -24,16 +24,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cplusplus/cplusplus-plain.svg" width="50" height="50" alt="C++" />
         <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="50" height="50" alt="Java" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" height="50" alt="Go" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="SQL" />
+        <img src="assets\icones\haskel_98.png" width="50" height="50" alt="haskel_98" />
+        <img src="assets\icones\sql.png" width="50" height="50" alt="SQL" />
         <img src="https://img.icons8.com/?size=100&id=YSWCDCSF4H3N&format=png&color=FFFFFF" width="50" height="50" alt="GitHub" />
         <img src="https://github.com/CyroMNeto/Icones-Power-BI/blob/main/PNG/Power-BI.png?raw=true" width="50" height="50" alt="Power BI" />
+        
 </p>
 
 ## 🏆 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalebeAF02&theme=solarized" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=CalebeAF02&theme=highcontrast&hide_border=verdadeiro&locale=pt_BR&short_numbers=verdadeiro)](https://git.io/streak-stats)
 
 ## 🌍 Idiomas
 

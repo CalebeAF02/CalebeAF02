@@ -1,16 +1,11 @@
 # 👨 Projetos Acadêmicos — UnB
 
----
+> Tecnologias e linguagens utilizadas em projetos acadêmicos desenvolvidos durante a graduação em Licenciatura em Computação na Universidade de Brasília.
 
-## 👨‍🎓 Linguagens & Tecnologias
+[![Academic](https://img.shields.io/badge/Projetos-UnB-red)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
+[![Software](https://img.shields.io/badge/Area-Desenvolvimento%20de%20Software-blue)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
+[![Learning](https://img.shields.io/badge/Status-Evoluindo-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
 
-[![Academic](https://img.shields.io/badge/Projects-UnB-blue)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
-[![Computer Science](https://img.shields.io/badge/Area-Computer%20Science-success)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
-[![Learning](https://img.shields.io/badge/Focus-Academic%20Projects-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
-
-🔗 **[Acesse o Repositório](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)**
-
-Tecnologias e linguagens utilizadas em projetos acadêmicos desenvolvidos durante a graduação em Licenciatura em Computação na Universidade de Brasília.
 
 | Tecnologia | Área | Aplicações |
 |------------|------|-------------|
@@ -26,7 +21,6 @@ Tecnologias e linguagens utilizadas em projetos acadêmicos desenvolvidos durant
 
 **Áreas de Interesse:** Engenharia de Software, Programação Concorrente, Inteligência Artificial, Banco de Dados, Paradigmas de Programação e Desenvolvimento Web.
 
----
 
 ## 🏨 TP1 — Projeto Hotelaria
 
@@ -55,8 +49,6 @@ Projeto acadêmico de gerenciamento hoteleiro desenvolvido em C++.
 - POO
 - Arquitetura modular
 
----
-
 ## 🐹 LP — Projeto Gopher Dungeon Arena
 
 [![Go](https://img.shields.io/badge/Go-Concurrency-blue)](https://github.com/CalebeAF02/LP_Projeto_Jogo_Gopher_Dungeon_Arena)
@@ -83,8 +75,6 @@ Projeto desenvolvido em Go com foco em concorrência, paralelismo e arquitetura 
 - ECS
 - Game Development
 
----
-
 ## λ LP — Atividades Hugs98
 
 [![Haskell](https://img.shields.io/badge/Haskell-Functional-blue)](https://github.com/CalebeAF02/LP_Atividades_Hugs98)
@@ -108,9 +98,6 @@ Atividades acadêmicas da disciplina Linguagens de Programação utilizando Hask
 - Haskell
 - Hugs98
 - Programação funcional
-
----
-
 ## 🐍 APC — Atividades Python
 
 [![Python](https://img.shields.io/badge/Python-Algorithms-blue)](https://github.com/CalebeAF02/APC_Atividades_Python)
@@ -135,9 +122,6 @@ Atividades acadêmicas da disciplina Algoritmos e Programação de Computadores.
 - Python
 - Algoritmos
 - Programação básica
-
----
-
 ## ⚽ APC — Projeto Futebol Python
 
 [![Python](https://img.shields.io/badge/Python-POO-blue)](https://github.com/CalebeAF02/APC_Projeto_Futebol_Python)
@@ -161,9 +145,6 @@ Projeto acadêmico voltado para gerenciamento e simulação relacionada ao conte
 - Python
 - POO
 - Design Patterns
-
----
-
 # 👨‍💻 Autor
 
 Calebe Alves Freitas

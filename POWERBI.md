@@ -2,8 +2,11 @@
 
 > Painéis desenvolvidos para fins acadêmicos, pessoais e esportivos com foco em análise de dados, visualização interativa e tomada de decisão:
 
+
+[![Pessoal](https://img.shields.io/badge/Projetos-Pessoal-success)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://github.com/CalebeAF02/Portfolio-PowerBI)
-[![Academic](https://img.shields.io/badge/Projects-Academic%20%26%20Personal-blue)](https://github.com/CalebeAF02/Portfolio-PowerBI)
+[![Learning](https://img.shields.io/badge/Status-Evoluindo-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
+
 
 
 
@@ -18,8 +21,6 @@
 
 **Técnicas:** Modelagem dimensional, DAX, relacionamentos, filtros interativos e storytelling com dados
 
----
-
 ## 🎯 O que você encontra aqui
 
 Seis dashboards **production-ready** que demonstram:
@@ -29,8 +30,6 @@ Seis dashboards **production-ready** que demonstram:
 ⚡ **Performance** — Dashboards otimizados para fluidez  
 🔍 **Interatividade** — Exploração profunda de dados  
 📈 **Impacto Mensurável** — Resultados tangíveis para decisão  
-
----
 
 ## ⚽ ESPORTIVO: Gerenciamento de Equipe Futsal
 
@@ -43,8 +42,6 @@ Seis dashboards **production-ready** que demonstram:
 **Painel institucional com identidade visual integrada.** Estrutura organizacional, staff técnico e organograma em um único ponto de verdade.
 
 🎯 **Resultado:** Comunicação clara da estrutura + branding do Instituto de Exatas - UnB integrado ao design.
-
----
 
 ### 📈 Desempenho Técnico e Estatísticas
 
@@ -62,8 +59,6 @@ Seis dashboards **production-ready** que demonstram:
 
 🎯 **Resultado:** Técnico toma decisão baseada em dados reais, não em impressão.
 
----
-
 ### 🧍 Perfis Individuais de Jogadores
 
 <a href="https://app.powerbi.com/view?r=SEU-LINK-PERFIS" target="_blank">
@@ -76,8 +71,6 @@ Seis dashboards **production-ready** que demonstram:
 Controle de bola · Passe · Finalização · Defesa · Visão de jogo · Velocidade · Resistência
 
 🎯 **Resultado:** Cada jogador entende seus pontos fortes e oportunidades de desenvolvimento.
-
----
 
 ### 🏅 Rankings e Projeções Estratégicas
 
@@ -94,8 +87,6 @@ Controle de bola · Passe · Finalização · Defesa · Visão de jogo · Veloci
 - Simulações de impacto
 
 🎯 **Resultado:** Previsibilidade do elenco + decisões técnicas mais inteligentes.
-
----
 
 ## 💰 FINANCEIRO: Gestão Pessoal e Análise de Gastos
 
@@ -116,8 +107,6 @@ Controle de bola · Passe · Finalização · Defesa · Visão de jogo · Veloci
 
 🎯 **Resultado:** Controle total do orçamento + visualização automática de padrões de consumo.
 
----
-
 ### 📉 Análise Granular de Despesas
 
 <a href="https://app.powerbi.com/view?r=SEU-LINK-DESPESAS" target="_blank">
@@ -135,8 +124,6 @@ Controle de bola · Passe · Finalização · Defesa · Visão de jogo · Veloci
 
 🎯 **Resultado:** Identificação de padrões ocultos + economia inteligente baseada em dados.
 
----
-
 ## 🛠️ Tecnologias & Capacidades Demonstradas
 
 | Aspecto | Implementação |
@@ -147,8 +134,6 @@ Controle de bola · Passe · Finalização · Defesa · Visão de jogo · Veloci
 | **Performance** | Import Mode · Otimizações de query · Visualizações leves |
 | **Interatividade** | Filtros em cascata · Cross-filtering · Drill-through · Bookmarks |
 
----
-
 ## 📊 Resultados Visuais
 
 Cada dashboard foi desenvolvido com foco em:
@@ -157,8 +142,6 @@ Cada dashboard foi desenvolvido com foco em:
 ✅ **Elegância** — Design premium sem poluição visual  
 ✅ **Ação** — Cada visual orienta uma decisão  
 ✅ **Velocidade** — Insights em segundos, não em minutos  
-
----
 
 ## 🚀 Pronto para Usar
 
@@ -169,8 +152,6 @@ Todos os dashboards são:
 - 📱 Responsivos (desktop & mobile)
 - ♿ Acessíveis (WCAG compliant)
 
----
-
 ## 💡 Por que estes dashboards são diferentes
 
 Não são tutoriais. Não são exemplos acadêmicos. **São soluções reais** que:
@@ -178,20 +159,16 @@ Não são tutoriais. Não são exemplos acadêmicos. **São soluções reais** q
 - Tiveram que funcionar sob pressão (decisões reais tomadas a partir deles)
 - Foram iterados com feedback de usuários reais
 - Priorizam impacto sobre complexidade
-- Combinam beleza com funcionalidade
-
----
+ - Combinam beleza com funcionalidade
 
 ## 📬 Interessado em Colaboração?
 
 Se você procura um **desenvolvedor Power BI** que entende o equilíbrio entre estética e funcionalidade, ou quer transformar seus dados em uma estratégia visual, vamos conversar.
 
-- 🌐 [Instagram](https://www.instagram.com/calebeaf02/)
-- 💻 [GitHub](https://github.com/CalebeAF02)
-- 📧 **Email:** calebe.2324@gmail.com
-- 🏢 [Organização KD-Devz](https://github.com/KD-Devz)
-
----
+ - 🌐 [Instagram](https://www.instagram.com/calebeaf02/)
+ - 💻 [GitHub](https://github.com/CalebeAF02)
+ - 📧 **Email:** calebe.2324@gmail.com
+ - 🏢 [Organização KD-Devz](https://github.com/KD-Devz)
 
 ## 📝 Notas Técnicas
 
@@ -199,7 +176,5 @@ Se você procura um **desenvolvedor Power BI** que entende o equilíbrio entre e
 **Imagens:** Referenciadas em `assets/` — certifique-se de sua existência  
 **Dados:** Protegidos conforme políticas de privacidade  
 **Atualizações:** Agendadas automaticamente quando em produção  
-
----
 
 ✨ **Sempre transformando dados em histórias.** ✨

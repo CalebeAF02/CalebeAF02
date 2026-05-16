@@ -8,9 +8,6 @@
 - **Objetivo:** Espaço dedicado à colaboração em grupo e gestão de projetos open-source
 - **Foco:** Comunidade/organização para gerenciar projetos colaborativos e repositórios de equipe
 
----
-
-
 ### 🏺 Tartarus — Biblioteca de Utilitários de Baixo Nível
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/luandkg/tartarus)
@@ -20,9 +17,6 @@
 - **Objetivo:** Biblioteca de utilitários de baixo nível focada em estruturas de dados eficientes, manipulação de strings, gerenciamento de tempo e sistemas de entrada/saída (I/O)
 - **Foco:** Performance, tipagem genérica e suporte a desenvolvimento de aplicações modulares
 - **Colaboração:** Projeto desenvolvido em conjunto por @luandkg e @CalebeAF02
-
----
-
 #### 🛠️ Funcionalidades Principais
 
 - 📦 **Estruturas de Dados**
@@ -50,5 +44,4 @@
 - 🧪 **Framework de Testes**
   - Sistema interno de testes automatizados
   - Validação de integridade das funcionalidades da biblioteca
-
----
+ 
