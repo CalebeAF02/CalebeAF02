@@ -1,16 +1,12 @@
 # 👨 Projetos Pessoais
 
----
-
-## 👨‍💻 Linguagens & Tecnologias 
+> Tecnologias utilizadas em projetos pessoais, experimentais e estudos independentes voltados para desenvolvimento de software, algoritmos, jogos e sistemas administrativos.
 
 [![Personal](https://img.shields.io/badge/Projects-Personal-success)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
 [![Software](https://img.shields.io/badge/Area-Software%20Development-blue)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
 [![Learning](https://img.shields.io/badge/Status-Continuous%20Learning-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
 
-🔗 **[Acesse o Repositório](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)**
 
-Tecnologias utilizadas em projetos pessoais, experimentais e estudos independentes voltados para desenvolvimento de software, algoritmos, jogos e sistemas administrativos.
 
 | Tecnologia | Área | Aplicações |
 |------------|------|-------------|

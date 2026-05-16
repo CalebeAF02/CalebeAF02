@@ -1,10 +1,22 @@
-# 📊 Portfólio Power BI — Soluções em Visualização de Dados
+## 📊 Portfólio Power BI — Análise de Dados e Visualização
 
-> Dashboards estratégicos que transformam dados em decisões. Visualizações interativas, elegantes e efetivas desenvolvidas para organizações acadêmicas, esportivas e pessoais.
+> Painéis desenvolvidos para fins acadêmicos, pessoais e esportivos com foco em análise de dados, visualização interativa e tomada de decisão:
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=flat-square&logo=powerbi)](https://github.com/CalebeAF02/Portfolio-PowerBI)
-[![Visualização](https://img.shields.io/badge/Foco-Resultados%20Visuais-blue?style=flat-square)](https://github.com/CalebeAF02/Portfolio-PowerBI)
-[![Status](https://img.shields.io/badge/Status-Produção-brightgreen?style=flat-square)](https://github.com/CalebeAF02/Portfolio-PowerBI)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://github.com/CalebeAF02/Portfolio-PowerBI)
+[![Academic](https://img.shields.io/badge/Projects-Academic%20%26%20Personal-blue)](https://github.com/CalebeAF02/Portfolio-PowerBI)
+
+
+
+| Dashboard | Contexto | Funcionalidade |
+|-----------|----------|--------|
+| 🏟️ **Aplicada FC** | Esportivo | Visão geral e gestão da equipe de futsal |
+| 📈 **Desempenho Técnico** | Esportivo | Estatísticas de treinos, jogos e desempenho |
+| 🧍 **Perfis Individuais** | Esportivo | Análise técnica e histórico dos jogadores |
+| 🏅 **Ranking & Projeções** | Esportivo | Rankings, presença e projeções por categoria |
+| 💰 **Financeiro Pessoal** | Pessoal | Controle de entradas e saídas |
+| 📉 **Despesas Detalhadas** | Pessoal | Análise granular de gastos por categoria |
+
+**Técnicas:** Modelagem dimensional, DAX, relacionamentos, filtros interativos e storytelling com dados
 
 ---
 

@@ -8,20 +8,15 @@
 
 📊 Especialista em **Visualização de Dados (Power BI)** | Desenvolvedor **Back-end Java** em formação
 
----
 
-## 📑 Índice
+## 🚀 Projetos 
 
-1. [Formação Acadêmica](#-formação-acadêmica)
-2. [Habilidades](#-habilidades-em)
-3. [Interesses](#-interesses-e-estudos-atuais)
-4. [Experiência Profissional](#-experiência-profissional)
-5. [Projetos de Software](#-projetos-de-desenvolvimento-de-software)
-6. [Contato](#-contato)
+1. [PESSOAL.md](PESSOAL.md)
+2. [UNIVERSIDADE.md](UNIVERSIDADE.md)
+3. [CONTRIBUTING.md](CONTRIBUTING.md)
+4. [POWERBI.md](POWERBI.md)
 
----
-
-## 🤩 Habilidades em
+## 🏆 Habilidades
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
@@ -34,24 +29,17 @@
         <img src="https://github.com/CyroMNeto/Icones-Power-BI/blob/main/PNG/Power-BI.png?raw=true" width="50" height="50" alt="Power BI" />
 </p>
 
----
-
 ## 🏆 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalebeAF02&theme=solarized" />
 </p>
 
----
-
-
 ## 🌍 Idiomas
 
 - 🇧🇷 Português (nativo)  
 - 🇪🇸 Espanhol (intermediário)  
 - 🇺🇸 Inglês (iniciante)
-
----
 
 ## 💻 Desenvolvedor em formação com foco em:
 
@@ -60,8 +48,6 @@
 - Programação Concorrente
 - Desenvolvimento de Jogos
 - Visualização de Dados
-
----
 
 ## 📚 Formação Acadêmica
 
@@ -72,8 +58,6 @@
   - Participação ativa no **1º Hackathon do GDF**
   - Projetos de visualização de dados com Power BI voltados para gestão acadêmica, esportiva e administrativa militar
 
----
-
 ## 💼 Experiência Profissional
 
 **Cabo do Exército Brasileiro** — Período: Integral
@@ -83,8 +67,6 @@
 - ✅ Atuação administrativa e operacional  
 - ✅ Desenvolvimento de disciplina, liderança e resiliência  
 - ✅ Gestão e controle de materiais e usuários em sistemas internos
-
----
 
 ## 🚀 Em Busca de Experiências
 
@@ -102,29 +84,6 @@ Atualmente em fase de aprendizado e desenvolvimento técnico, buscando oportunid
 
 📬 Aberto a colaborações, projetos acadêmicos, open source e oportunidades de estágio.
 
----
-
-## 📊 Portfólio Power BI — Análise de Dados e Visualização
-
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://github.com/CalebeAF02/Portfolio-PowerBI)
-[![Academic](https://img.shields.io/badge/Projects-Academic%20%26%20Personal-blue)](https://github.com/CalebeAF02/Portfolio-PowerBI)
-
-🔗 **[Acesse o Portfólio Completo de Dashboards](https://github.com/CalebeAF02/Portfolio-PowerBI)**
-
-Painéis desenvolvidos para fins acadêmicos, pessoais e esportivos com foco em análise de dados, visualização interativa e tomada de decisão:
-
-| Dashboard | Contexto | Funcionalidade |
-|-----------|----------|--------|
-| 🏟️ **Aplicada FC** | Esportivo | Visão geral e gestão da equipe de futsal |
-| 📈 **Desempenho Técnico** | Esportivo | Estatísticas de treinos, jogos e desempenho |
-| 🧍 **Perfis Individuais** | Esportivo | Análise técnica e histórico dos jogadores |
-| 🏅 **Ranking & Projeções** | Esportivo | Rankings, presença e projeções por categoria |
-| 💰 **Financeiro Pessoal** | Pessoal | Controle de entradas e saídas |
-| 📉 **Despesas Detalhadas** | Pessoal | Análise granular de gastos por categoria |
-
-**Técnicas:** Modelagem dimensional, DAX, relacionamentos, filtros interativos e storytelling com dados
-
----
 
 ## 📫 Contato
 
@@ -132,7 +91,5 @@ Painéis desenvolvidos para fins acadêmicos, pessoais e esportivos com foco em 
 - 💻 [GitHub](https://github.com/CalebeAF02)
 - 🏢 [Organização KD-Devz](https://github.com/KD-Devz)
 - 📧 Email: calebe.2324@gmail.com
-
----
 
 ✨ **"Sempre aprendendo e evoluindo!"** 🚀
