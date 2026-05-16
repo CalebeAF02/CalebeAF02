@@ -1,16 +1,30 @@
-# 👨‍🎓 Projetos Acadêmicos — UnB
+# 👨 Projetos Acadêmicos — UnB
 
-Repositório dedicado aos projetos desenvolvidos durante minha trajetória na Universidade de Brasília (UnB), envolvendo disciplinas, trabalhos acadêmicos e projetos finais.
+---
 
-As áreas exploradas incluem:
+## 👨‍🎓 Linguagens & Tecnologias
 
-- Engenharia de Software
-- Programação Concorrente
-- Estruturas de Dados
-- Banco de Dados
-- Desenvolvimento Web
-- Paradigmas de Programação
-- Programação Orientada a Objetos
+[![Academic](https://img.shields.io/badge/Projects-UnB-blue)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
+[![Computer Science](https://img.shields.io/badge/Area-Computer%20Science-success)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
+[![Learning](https://img.shields.io/badge/Focus-Academic%20Projects-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
+
+🔗 **[Acesse o Repositório](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)**
+
+Tecnologias e linguagens utilizadas em projetos acadêmicos desenvolvidos durante a graduação em Licenciatura em Computação na Universidade de Brasília.
+
+| Tecnologia | Área | Aplicações |
+|------------|------|-------------|
+| ☕ **Java** | POO & Estruturas | Programação orientada a objetos e lógica |
+| 🐹 **Go (Golang)** | Concorrência | Goroutines, paralelismo e ECS |
+| 🐍 **Python** | Algoritmos | Programação básica, automação e POO |
+| ⚙️ **C** | Fundamentos | Estruturas de dados e lógica computacional |
+| 🚀 **C++** | Engenharia de Software | Sistemas modulares e arquitetura |
+| 🧠 **Prolog** | Inteligência Artificial | Inferência lógica e árvores de refutação |
+| λ **Hugs98** | Programação Funcional | Recursão e paradigmas funcionais |
+| 🗄️ **SQL** | Banco de Dados | Consultas, modelagem e persistência |
+| 🔧 **Git & GitHub** | Versionamento | Organização e colaboração acadêmica |
+
+**Áreas de Interesse:** Engenharia de Software, Programação Concorrente, Inteligência Artificial, Banco de Dados, Paradigmas de Programação e Desenvolvimento Web.
 
 ---
 

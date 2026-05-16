@@ -104,56 +104,6 @@ Atualmente em fase de aprendizado e desenvolvimento técnico, buscando oportunid
 
 ---
 
-## 👨‍💻 Linguagens & Tecnologias — Projetos Pessoais
-
-[![Personal](https://img.shields.io/badge/Projects-Personal-success)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
-[![Software](https://img.shields.io/badge/Area-Software%20Development-blue)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
-[![Learning](https://img.shields.io/badge/Status-Continuous%20Learning-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
-
-🔗 **[Acesse o Repositório](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)**
-
-Tecnologias utilizadas em projetos pessoais, experimentais e estudos independentes voltados para desenvolvimento de software, algoritmos, jogos e sistemas administrativos.
-
-| Tecnologia | Área | Aplicações |
-|------------|------|-------------|
-| ☕ **Java** | Game Dev & POO | Desenvolvimento de jogos e arquitetura orientada a objetos |
-| 🐍 **Python** | Back-end & Automação | Sistemas administrativos, APIs e automação |
-| ⚙️ **C** | Game Development | Fundamentos computacionais e jogos 2D |
-| 🚀 **C++** | Software & Games | Estruturação de sistemas e jogos |
-| 🗄️ **SQL** | Banco de Dados | Organização e persistência de dados |
-| 🌐 **HTML/CSS** | Front-end | Interfaces web e estilização |
-| 🔧 **Git & GitHub** | Versionamento | Organização e gerenciamento de projetos |
-
-**Áreas de Interesse:** Desenvolvimento de Jogos, Back-end, Estruturas de Dados, Arquitetura de Software e Sistemas Administrativos.
-
----
-
-## 👨‍🎓 Linguagens & Tecnologias — Projetos UnB
-
-[![Academic](https://img.shields.io/badge/Projects-UnB-blue)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
-[![Computer Science](https://img.shields.io/badge/Area-Computer%20Science-success)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
-[![Learning](https://img.shields.io/badge/Focus-Academic%20Projects-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)
-
-🔗 **[Acesse o Repositório](https://github.com/CalebeAF02/Portifolio_Linguagens_UnB)**
-
-Tecnologias e linguagens utilizadas em projetos acadêmicos desenvolvidos durante a graduação em Licenciatura em Computação na Universidade de Brasília.
-
-| Tecnologia | Área | Aplicações |
-|------------|------|-------------|
-| ☕ **Java** | POO & Estruturas | Programação orientada a objetos e lógica |
-| 🐹 **Go (Golang)** | Concorrência | Goroutines, paralelismo e ECS |
-| 🐍 **Python** | Algoritmos | Programação básica, automação e POO |
-| ⚙️ **C** | Fundamentos | Estruturas de dados e lógica computacional |
-| 🚀 **C++** | Engenharia de Software | Sistemas modulares e arquitetura |
-| 🧠 **Prolog** | Inteligência Artificial | Inferência lógica e árvores de refutação |
-| λ **Hugs98** | Programação Funcional | Recursão e paradigmas funcionais |
-| 🗄️ **SQL** | Banco de Dados | Consultas, modelagem e persistência |
-| 🔧 **Git & GitHub** | Versionamento | Organização e colaboração acadêmica |
-
-**Áreas de Interesse:** Engenharia de Software, Programação Concorrente, Inteligência Artificial, Banco de Dados, Paradigmas de Programação e Desenvolvimento Web.
-
----
-
 ## 📊 Portfólio Power BI — Análise de Dados e Visualização
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://github.com/CalebeAF02/Portfolio-PowerBI)

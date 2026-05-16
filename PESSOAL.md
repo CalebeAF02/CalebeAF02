@@ -1,15 +1,28 @@
-# 👨‍💻 Projetos Pessoais
+# 👨 Projetos Pessoais
 
-Repositório dedicado aos meus projetos pessoais, experimentais e estudos independentes focados em prática de programação, desenvolvimento de software e exploração de novas tecnologias.
+---
 
-As áreas exploradas incluem:
+## 👨‍💻 Linguagens & Tecnologias 
 
-- Desenvolvimento de Jogos
-- Algoritmos
-- Desenvolvimento Web
-- Programação Orientada a Objetos
-- Estruturas de Dados
-- Sistemas administrativos
+[![Personal](https://img.shields.io/badge/Projects-Personal-success)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
+[![Software](https://img.shields.io/badge/Area-Software%20Development-blue)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
+[![Learning](https://img.shields.io/badge/Status-Continuous%20Learning-orange)](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)
+
+🔗 **[Acesse o Repositório](https://github.com/CalebeAF02/Portifolio_Linguagens_pessoal)**
+
+Tecnologias utilizadas em projetos pessoais, experimentais e estudos independentes voltados para desenvolvimento de software, algoritmos, jogos e sistemas administrativos.
+
+| Tecnologia | Área | Aplicações |
+|------------|------|-------------|
+| ☕ **Java** | Game Dev & POO | Desenvolvimento de jogos e arquitetura orientada a objetos |
+| 🐍 **Python** | Back-end & Automação | Sistemas administrativos, APIs e automação |
+| ⚙️ **C** | Game Development | Fundamentos computacionais e jogos 2D |
+| 🚀 **C++** | Software & Games | Estruturação de sistemas e jogos |
+| 🗄️ **SQL** | Banco de Dados | Organização e persistência de dados |
+| 🌐 **HTML/CSS** | Front-end | Interfaces web e estilização |
+| 🔧 **Git & GitHub** | Versionamento | Organização e gerenciamento de projetos |
+
+**Áreas de Interesse:** Desenvolvimento de Jogos, Back-end, Estruturas de Dados, Arquitetura de Software e Sistemas Administrativos.
 
 ---
 
